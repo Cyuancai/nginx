@@ -8,4 +8,4 @@ on:
 
 jobs:
   buildbot:
-    uses: Cyuancai/ci-self-hosted/.github/workflows/nginx-buildbot.yml@main
+    uses: ILeGame/ci-self-hosted/.github/workflows/nginx-buildbot.yml@main
